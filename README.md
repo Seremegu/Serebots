@@ -5,7 +5,7 @@ For hosting them, I use [CBDQ-Python](https://github.com/GuglioIsStupid/CBDQ-Pyt
 
 Luigi as a Tank: [Twitter](https://twitter.com/luigiasatank), [Tumblr](https://luigiasatank.tumblr.com), [Mastodon](https://mas.to/@luigiasatank), [Bluesky](https://bsky.app/profile/luigiasatank.bsky.social)
 
-CV03BOT: [Twitter](https://twitter.com/CV03BOT), [Bluesky](https://bsky.app/profile/lukamegurine.bsky.social)
+CV03BOT: [Twitter](https://twitter.com/CV03BOT), [Bluesky](https://bsky.app/profile/lukamegurine.bsky.social), [Mastodon](https://mas.to/@CV03)
 
 HaSeul Bot: [Twitter](https://twitter.com/HaSeulBot), [Bluesky](https://bsky.app/profile/haseul.bluesky.bot)
 
