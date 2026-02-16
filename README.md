@@ -1,4 +1,4 @@
-# 03Bots
+# Serebots
 Source code of my automated accounts on social media, in [Tracery](https://github.com/galaxykate/tracery) format.
 
 For hosting them, I use [CBDQ-Python](https://github.com/GuglioIsStupid/CBDQ-Python) for Twitter, [Cheap Bots Toot Sweet](https://cheapbotstootsweet.com) for Mastodon, and [Blue Bots Done Quick](https://bluebotsdonequick.com) for Bluesky.
