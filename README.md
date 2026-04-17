@@ -1,7 +1,7 @@
 ![Serebots](https://sere.nekoweb.org/img/Serebots.png)
 Source code of my automated accounts on social media, in [Tracery](https://github.com/galaxykate/tracery) format.
 
-For hosting them, I use [CBDQ-Python](https://github.com/GuglioIsStupid/CBDQ-Python) for Twitter, [Cheap Bots Toot Sweet](https://cheapbotstootsweet.com) for Mastodon, and [Blue Bots Done Quick](https://bluebotsdonequick.com) for Bluesky. 
+For hosting them, I use [CBDQ-Python](https://github.com/GuglioIsStupid/CBDQ-Python) for Twitter, [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com) for Mastodon, and [Blue Bots, Done Quick!](https://bluebotsdonequick.com) for Bluesky. 
 <br/><br/>
 - Luigi as a Tank: [Twitter](https://twitter.com/luigiasatank), [Tumblr](https://luigiasatank.tumblr.com), [Mastodon](https://mas.to/@luigiasatank), [Bluesky](https://bsky.app/profile/luigiasatank.bsky.social)
 - CV03BOT: [Twitter](https://twitter.com/CV03BOT), [Bluesky](https://bsky.app/profile/lukamegurine.bsky.social), [Mastodon](https://mas.to/@CV03)
